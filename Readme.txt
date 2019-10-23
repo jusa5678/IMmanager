@@ -1,4 +1,4 @@
-IM manager WEB 부분
+//IM manager WEB 부분
 
 OS : Linux CentOS 7
 WAS : Apache Tomcat v8.5
